@@ -14,7 +14,7 @@ A curated list of awesome resources for quantitative investment and trading stra
 
 *Your edge: which layer do you understand better than consensus?*
 
-⭐ Beyond curated links: [Regime Research](https://leoncuhk.github.io/quant-regime/) — daily regime, volatility, and risk pages across 30 tickers — plus [research notes](#research-notes-think) on regime detection and AI-agent trading.
+⭐ Beyond curated links: [Regime Research](https://leoncuhk.github.io/quant-regime/) — daily regime, volatility, and risk pages across 30 tickers.
 
 </div>
 
